@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pion/transport/deadline"
+	"github.com/carrotsong/transport/deadline"
 )
 
 const (

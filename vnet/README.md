@@ -105,8 +105,8 @@ interface.
 import (
 	"net"
 
-	"github.com/pion/transport/vnet"
-	"github.com/pion/logging"
+	"github.com/carrotsong/transport/vnet"
+	"github.com/carrotsong/logging"
 )
 
 // Create WAN (a root router).

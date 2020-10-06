@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pion/logging"
+	"github.com/carrotsong/logging"
 	"github.com/stretchr/testify/assert"
 )
 

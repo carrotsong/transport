@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pion/transport/deadline"
+	"github.com/carrotsong/transport/deadline"
 )
 
 var errPacketTooBig = errors.New("packet too big")
